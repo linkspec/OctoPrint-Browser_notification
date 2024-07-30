@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_browser_notification/templates *
+recursive-include octoprint_browser_notification/translations *
+recursive-include octoprint_browser_notification/static *
